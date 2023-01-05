@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   Blog
   </a>
    · 
-  <a href="ZhouFeiZzf@163.com">
+  <a href="zhoufeizzf@163.com">
     email
    </a>
 </p>
