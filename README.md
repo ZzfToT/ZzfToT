@@ -20,10 +20,6 @@ Here are some ideas to get you started:
   <a href="">
   Blog
   </a>
-   · 
-  <a href="zhoufeizzf@163.com">
-    email
-   </a>
 </p>
 
 <table style="width:100%">
